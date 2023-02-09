@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/ads/[id]": "pages/ads/[id].html",
+  "/api/hello": "pages/api/hello.js",
+  "/appointment/[id]": "pages/appointment/[id].html",
+  "/blog/[id]": "pages/blog/[id].html",
+  "/contact/[id]": "pages/contact/[id].html",
+  "/coupon/[id]": "pages/coupon/[id].html",
+  "/dashboard": "pages/dashboard.html",
+  "/doctor/[id]": "pages/doctor/[id].html",
+  "/": "pages/index.html",
+  "/patient/[id]": "pages/patient/[id].html",
+  "/reset/[id]": "pages/reset/[id].html",
+  "/reset": "pages/reset.html",
+  "/review/[id]": "pages/review/[id].html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
